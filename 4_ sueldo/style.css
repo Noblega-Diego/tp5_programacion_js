@@ -1,0 +1,16 @@
+body{
+    background-image: url("../3_\ letra\ del\ documento/mount.svg");
+    background-repeat: no-repeat;
+    background-position:  bottom right;
+    background-size: 500px;
+}
+
+form input[type="number"].anio{
+    width: 100px;
+}
+.box2{  
+    margin: 4px;
+}
+.box2 p {
+    display: inline-block;
+}
